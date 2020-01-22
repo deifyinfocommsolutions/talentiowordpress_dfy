@@ -1,2 +1,1 @@
-# talentiowordpress_dfy
-Wordpress for Talentio Site for iBeads
+Wordpress for Talentio site for iBeads
